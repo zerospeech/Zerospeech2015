@@ -10,3 +10,7 @@ The challenge restricted the corpus to the following files:
 - sample: sample_files.txt to extract from the Buckeye
 - english: english_files.txt to extract from the Buckeye
 - xitsonga: xitsonga_files.txt to extract from the NCHLT
+
+Track 1 repository: `ABXpy <https://github.com/bootphon/ABXpy/tree/zerospeech2015>`_.
+
+Track 2 repository: `tde <https://github.com/bootphon/tde>`_.
